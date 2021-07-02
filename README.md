@@ -1,3 +1,4 @@
+![GitHub Header](images/header.png)
 ### Hi there 👋
 
 <!--

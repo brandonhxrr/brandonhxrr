@@ -2,8 +2,7 @@
 
 <br>
 
-#### Hi there, I'm Brandon Herrera, mobile developer, computer systems engineering student, passionate about plants and AI, my favorite technologies are ***kotlin*** and ***python***.
-
+#### Hi there ✌️, I'm Brandon Herrera, mobile developer, computer systems engineering student at ***ESCOM***, passionate about plants and AI, my favorite technologies are ***java***, ***kotlin*** and ***python***.
 <br>
 
 ## Social Media:
@@ -35,22 +34,10 @@
 <img align="left" alt="IntelliJ IDEA" width="50px" src="https://img.icons8.com/color/240/000000/intellij-idea.png"/>
 <img align="left" alt="C" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>
 <img align="left" alt="Java" width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img align="left" alt="Android Studio" width="50px" src="https://ssvar.ch/wp-content/uploads/2021/01/announcing-android-studio-arctic-fox-2020-3-1-android-gradle-plugin-7-0.png"/>
+<img align="left" alt="Android Studio" width="50px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"/>
 <img align="left" alt="Linux" width="50px" src="https://img.icons8.com/color/96/000000/linux--v1.png"/>
 <img align="left" alt="MySQL" width="50px" src="https://img.icons8.com/color/96/000000/mysql-logo.png"/>
 <img align="left" alt="Oracle Database" width="50px" src="https://img.icons8.com/color/96/000000/oracle-logo.png"/>
 <!--
 **brandonhxrr/brandonhxrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 

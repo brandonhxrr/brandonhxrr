@@ -1,43 +1,51 @@
+
 ![GitHub Header](images/header.png)
-
 <br>
+###  Hi there 👋
 
-#### Hi there ✌️, I'm Brandon Herrera, mobile developer, computer systems engineering student at ***ESCOM***, passionate about plants and AI, my favorite technologies are ***java***, ***kotlin*** and ***python***.
-<br>
-
-## Social Media:
-
-<a href="https://www.instagram.com/brandonhxrr/">
-    <img src="https://img.shields.io/badge/Instagram-5851DB?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="https://www.twitter.com/brandonhxrr/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/brandonhxrr/">
-    <img src="https://img.shields.io/badge/LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<br>
-<br>
+I'm Brandon Herrera, Computer Systems Engineering student at
+***ESCOM*** and ***IBM Student Avocate***. Passionate about technology, design and personal development, my favorite technologies are ***java***, ***kotlin*** and ***python***.
+<div align="center">
+	<a href="https://www.linkedin.com/in/brandonhxrr/">
+	    <img src="https://img.shields.io/badge/LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+	<a href="https://www.twitter.com/brandonhxrr/">
+	    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+	</a>
+	<a href="https://www.instagram.com/brandonhxrr/">
+	    <img src="https://img.shields.io/badge/Instagram-5851DB?style=for-the-badge&logo=instagram&logoColor=white">
+	</a>
+</div>
 
 ## Languages and tools
-<img align="left" alt="Kotlin" width="50px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-<img align="left" alt="Visual Studio Code" width="50px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"/>
-<img align="left" alt="Python" width="50px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="50px" src="https://img.icons8.com/fluent/48/000000/console.png"/>
-<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="IntelliJ IDEA" width="50px" src="https://img.icons8.com/color/240/000000/intellij-idea.png"/>
-<img align="left" alt="C" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>
-<img align="left" alt="Java" width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img align="left" alt="Android Studio" width="50px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"/>
-<img align="left" alt="Linux" width="50px" src="https://img.icons8.com/color/96/000000/linux--v1.png"/>
-<img align="left" alt="MySQL" width="50px" src="https://img.icons8.com/color/96/000000/mysql-logo.png"/>
-<img align="left" alt="Oracle Database" width="50px" src="https://img.icons8.com/color/96/000000/oracle-logo.png"/>
-<!--
-**brandonhxrr/brandonhxrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+![Brandon Herrera's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonhxrr&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonhxrr&layout=compact)

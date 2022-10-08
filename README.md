@@ -1,7 +1,13 @@
 
 ![GitHub Header](images/header.png)
 <br>
-###  Hi there 👋
+<div align="center">
+	<img src="https://komarev.com/ghpvc/?username=brandonhxrr&color=blue&style=for-the-badge" alt="Profile views"/>
+	<img src="https://img.shields.io/github/followers/brandonhxrr?style=for-the-badge&logo=github&color=blue" alt="Github followers"/> 
+	<img src="https://img.shields.io/twitter/follow/brandonhxrr?style=for-the-badge&logo=twitter&color=blue" alt="Twitter followers"/>   
+</div>
+
+## Hi there 👋
 
 I'm Brandon Herrera, Computer Systems Engineering student at
 ***ESCOM*** and ***IBM Student Avocate***. Passionate about technology, design and personal development, my favorite technologies are ***java***, ***kotlin*** and ***python***.

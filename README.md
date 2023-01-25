@@ -1,5 +1,5 @@
 
-![GitHub Header](images/header.png)
+![GitHub Header](images/header.gif)
 <br>
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=brandonhxrr&color=blue&style=for-the-badge" alt="Profile views"/>
@@ -9,8 +9,7 @@
 
 ## Hi there 👋
 
-I'm Brandon Herrera, Computer Systems Engineering student at
-***ESCOM*** and ***IBM Student Avocate***. Passionate about technology, design and personal development, my favorite technologies are ***java***, ***kotlin*** and ***python***.
+I'm a software engineer with a passion for learning and creating. Mexican student of Computer Systems Engineering at ***ESCOM IPN*** since 2020. Core team member of the ***Google Developer Student Club ESCOM IPN*** and ***IBM zSystems Student Ambassador***. Passionate about mobile development and UI/UX design. I love to learn new things and share my knowledge with others, my favorite technologies are ***java***, ***kotlin*** and ***python***.
 <div align="center">
 	<a href="https://www.linkedin.com/in/brandonhxrr/">
 	    <img src="https://img.shields.io/badge/LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white">

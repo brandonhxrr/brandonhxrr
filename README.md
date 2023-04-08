@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 ![GitHub Header](images/header.png)
+=======
+<img src="images/header.gif" alt="Profile header" width="100%"/>
+>>>>>>> a04ecccde7fb6a3c4567ba80a57518624f7bd498
 <br>
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=brandonhxrr&color=blue&style=for-the-badge" alt="Profile views"/>

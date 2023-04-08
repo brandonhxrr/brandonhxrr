@@ -1,5 +1,5 @@
 
-![GitHub Header](images/header.gif)
+![GitHub Header](images/header.png)
 <br>
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=brandonhxrr&color=blue&style=for-the-badge" alt="Profile views"/>
